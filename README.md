@@ -5,13 +5,13 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Grocery_Store</h3>
+<h3 align="center">Responsive Website</h3>The responsive web site solves the compatibility problems of web pages displayed at different resolutions, different platforms, and different screen sizes, and also brings high-quality experience to users.
 
 
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">
     <br> 
 </p>
 
