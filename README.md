@@ -99,6 +99,9 @@ Step 1: Open Github
     <img width=300px height=200px src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*5xxdLh_Gk4NAHyg4.png"
 </a>
 </p>
+<p aligin="center">
+Fig 1 Git Workflow
+</p>
 Step 2: Static page <br>
 Step 3: Creating sites <br>
 Step 4: Creating Repository <br>
