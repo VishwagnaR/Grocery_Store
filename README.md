@@ -5,7 +5,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Responsive Website(#getting_started)</h3>The responsive web site solves the compatibility problems of web pages displayed at different resolutions, different platforms, and different screen sizes, and also brings high-quality experience to users.
+<h3 align="center">Responsive Website</h3>The responsive web site solves the compatibility problems of web pages displayed at different resolutions, different platforms, and different screen sizes, and also brings high-quality experience to users.
 
 
 
@@ -28,6 +28,13 @@
 
 ## 🧐 About <a name = "about"></a>
 Write about 1-2 paragraphs describing the purpose of your project.
+Responsive Website can be viewed using many different devices:
+Desktops, tablets, and phones. Your web page should look good, and be easy to use, regardless of the device.
+1. Responsive Web Site (RWS) is a process of designing a single website to be used and compatible on different
+portable or handle electronic devices
+2. It regarded as an integrated approach of designing through which compelling and easy to use website are build,
+to give an optimal viewing user experience across a wide variety of device starting from desktop computers to
+mobile phones.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
