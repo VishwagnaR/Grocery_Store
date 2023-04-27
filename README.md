@@ -58,12 +58,10 @@ And repeat
 ```
 until finished
 ```
-<p align="center">
-  <a href="" rel="">
- <img width=200px height=200px src="https://downlinko.com/assets/images/posts/development/editors/visual-studio-code-installer-finish.png"
-</a>
-</p>
-End with an example of getting some data out of the system or using it for a little demo.
+ <img width=300px height=200px src="https://downlinko.com/assets/images/posts/development/editors/visual-studio-code-installer-finish.png"
+
+
+
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
