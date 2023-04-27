@@ -113,7 +113,7 @@ Step 5: Pushing Your code
 </a>
 </p>
 <p align="center">
-  Fig 2 Repository Overview
+  Fig 2: Repository Overview
 </p>
 
 ```
@@ -124,6 +124,15 @@ Command: git commit -m “Type your comments here”
 Command : git remote add origin <repo link>
 Command : git push -u origin master
 ```
+Step 6: Final Deployment
+<p align="center">
+  <a href="" rel="">
+    <img width=500px height=300px src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*busk-Md_7OwNuLzrtSM-DA.png"
+</a>
+</p>
+<p align="center">
+  Fig 3: GIthub Pages Settings
+</p>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Visual Studio Code](code.visualstudio.com) - Editor
