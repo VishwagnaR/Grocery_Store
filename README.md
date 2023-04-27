@@ -42,16 +42,17 @@ These instructions will get you a copy of the project up and running on your web
 What things you need to install the software and how to install them.
 
 ```
-First need to download visual studio code, it is like editor where you can write your code like html,css, and javascript.
+First need to download visual studio code, it is like editor where you can write your codes like html,css, and javascript etc..
 ```
 
 ### Installing
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
+A step by step series of examples
 ```
-Give the example
+Step 1: Download Visual Studio code.
+Step 2: Download the installer according to your operating system. Suppose if your OS is windows, download windows otherwise download accoring to operating system.
+Step 3: Install vscode. This step is easy, accept the agreement and click next.
+
+
 ```
 
 And repeat
