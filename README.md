@@ -5,7 +5,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center", color="blue">Responsive Website</h3>The responsive web site solves the compatibility problems of web pages displayed at different resolutions, different platforms, and different screen sizes, and also brings high-quality experience to users.
+<h3 align="center">Responsive Website</h3>The responsive web site solves the compatibility problems of web pages displayed at different resolutions, different platforms, and different screen sizes, and also brings high-quality experience to users.
 
 
 
@@ -42,7 +42,7 @@ These instructions will get you a copy of the project up and running on your web
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+First need to download visual studio code, it is like editor where you can write your code like html,css, and javascript.
 ```
 
 ### Installing
