@@ -143,6 +143,7 @@ Step 6: Final Deployment
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration 
-## Ethan Marcotte
+## Junie Denny Solomon
+## Bhupendra Parihar
 - References
 
