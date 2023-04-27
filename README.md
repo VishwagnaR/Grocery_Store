@@ -42,7 +42,7 @@ These instructions will get you a copy of the project up and running on your web
 What things you need to install the software and how to install them.
 
 ```
-First need to download visual studio code, it is like editor where you can write your code like html,css, and javascript.
+First need to download visual studio code, it is [like](#like) editor where you can write your code like html,css, and javascript.
 ```
 
 ### Installing
