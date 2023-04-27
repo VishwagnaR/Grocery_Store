@@ -39,7 +39,7 @@ mobile phones.
 These instructions will get you a copy of the project up and running on your web browser. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to [install](#install) the software and how to install them.
+What things you need to install the software and how to install them.
 
 ```
 First need to download visual studio code, it is like editor where you can write your code like html,css, and javascript.
