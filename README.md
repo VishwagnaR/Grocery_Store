@@ -60,7 +60,8 @@ until finished
 ```
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src=![image](https://user-images.githubusercontent.com/124909083/234804205-a59c6135-6ba7-46bb-b434-fd1422038fd1.png)
+" alt="Project logo"></a>
 </p>
 End with an example of getting some data out of the system or using it for a little demo.
 
