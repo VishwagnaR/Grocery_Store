@@ -116,6 +116,15 @@ Step 5: Pushing Your code
   Fig 2 Repository Overview
 </p>
 
+```
+# get inside the local repository
+Command: git init
+Command: git add .
+Command: git commit -m “Type your comments here”
+Command : git remote add origin <repo link>
+Command : git push -u origin master
+```
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Visual Studio Code](code.visualstudio.com) - Editor
 - [Chrome](https://www.google.com/) - Browser
