@@ -51,8 +51,6 @@ A step by step series of examples
 Step 1: Download Visual Studio code.
 Step 2: Download the installer according to your operating system. Suppose if your OS is windows, download windows otherwise download accoring to operating system.
 Step 3: Install vscode. This step is easy, accept the agreement and click next.
-
-
 ```
 
 And repeat
