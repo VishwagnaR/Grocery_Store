@@ -141,10 +141,8 @@ Step 6: Final Deployment
 ## ✍️ Authors <a name = "authors"></a>
 - [@Ethan Marcotte](https://ethanmarcotte.com/)
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
 - Inspiration
+Ethan Marcotte
 - References
 
