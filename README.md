@@ -92,7 +92,7 @@ trend. A popularity had been seen among the users for responsive sites as it ser
 • Helps increasing the user experience <br>
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+## How To deploy your websites in Github
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Visual Studio Code](code.visualstudio.com) - Editor
