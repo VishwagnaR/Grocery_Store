@@ -93,6 +93,12 @@ trend. A popularity had been seen among the users for responsive sites as it ser
 
 ## 🚀 Deployment <a name = "deployment"></a>
 ## How To deploy your websites in Github
+* Open Github
+<p align="center">
+  <a href="" rel="">
+    <img width=300px height=200px src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*5xxdLh_Gk4NAHyg4.png"
+</a>
+</p>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Visual Studio Code](code.visualstudio.com) - Editor
