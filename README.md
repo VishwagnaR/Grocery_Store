@@ -27,7 +27,6 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
 Responsive Website can be viewed using many different devices:
 Desktops, tablets, and phones. Your web page should look good, and be easy to use, regardless of the device.
 1. Responsive Web Site (RWS) is a process of designing a single website to be used and compatible on different
