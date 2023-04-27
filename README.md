@@ -82,13 +82,14 @@ Give an example
 ```
 
 ## 🎈 Usage <a name="usage"></a>
-●	Using smartphone, Tablets, and Notebooks for accessing internet has become a common fashion or trend. A popularity or charm had been seen among the
-users for responsive sites as it serves the following advantages
-●	A responsive website is flexible to use
-●	It automatically shuffles content, realize images, and adjusts font size
-●	User are able to read information as per their needs and preferences
-●	Helps encountering fast and intelligent sites
-●	Saves user time while browsing the site
+Using smartphone, Tablets, and Notebooks for accessing internet has become a common fashion or
+trend. A popularity had been seen among the users for responsive sites as it serves the following advantages <br>
+• A responsive website is flexible to use <br>
+• It automatically shuffles content, realize images, and adjusts font size <br>
+• User are able to read information as per their needs and preferences <br>
+• Helps encountering fast and intelligent sites <br>
+• Saves user time while browsing the site <br>
+• Helps increasing the user experience <br>
 
 ## 🚀 Deployment <a name = "deployment"></a>
 Add additional notes about how to deploy this on a live system.
