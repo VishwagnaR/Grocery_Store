@@ -100,7 +100,7 @@ Step 1: Open Github
 </a>
 </p>
 <p align="center">
-  Fig  Git Workflow
+  Fig 1: Git Workflow
 </p>
 
 Step 2: Static page <br>
@@ -111,6 +111,9 @@ Step 5: Pushing Your code
   <a href="" rel="">
     <img width=500px height=300px src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*BZ9qMlO7WTRRf9Qg-TziAA.png"
 </a>
+</p>
+<p align="center">
+  Fig 2 Repository Overview
 </p>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
