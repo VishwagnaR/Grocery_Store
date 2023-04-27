@@ -142,7 +142,6 @@ Step 6: Final Deployment
 - [@Ethan Marcotte](https://ethanmarcotte.com/)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Inspiration
-## Ethan Marcotte
+- Inspiration ## Ethan Marcotte
 - References
 
