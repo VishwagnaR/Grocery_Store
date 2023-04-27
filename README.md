@@ -127,8 +127,8 @@ Step 6: Final Deployment
 ## Junie Denny Solomon
 ## Bhupendra Parihar
 - References
-
-1) "The Next Web" (https://thenextweb.com/) - This website is a great example of a responsive design that looks great on desktop and mobile devices alike. <br>
+<br>
+1)"The Next Web" (https://thenextweb.com/) - This website is a great example of a responsive design that looks great on desktop and mobile devices alike. <br>
 
 2)"Treehouse" (https://teamtreehouse.com/) - Treehouse is a platform for learning web development and design, and their website is a great example of a responsive design that uses a clean and modern layout. <br>
 
