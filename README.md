@@ -93,16 +93,16 @@ trend. A popularity had been seen among the users for responsive sites as it ser
 
 ## 🚀 Deployment <a name = "deployment"></a>
 ## How To deploy your websites in Github
-* Open Github
+Step 1: Open Github
 <p align="center">
   <a href="" rel="">
     <img width=300px height=200px src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*5xxdLh_Gk4NAHyg4.png"
 </a>
 </p>
-* Static page <br>
-* Creating sites <br>
-* Creating Repository <br>
-* Pushing Your code
+Step 2: Static page <br>
+Step 3: Creating sites <br>
+Step 4: Creating Repository <br>
+Step 5: Pushing Your code
 <p align="center">
   <a href="" rel="">
     <img width=500px height=300px src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*BZ9qMlO7WTRRf9Qg-TziAA.png"
