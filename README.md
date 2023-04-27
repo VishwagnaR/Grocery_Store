@@ -49,6 +49,7 @@ First need to download visual studio code, it is like editor where you can write
 A step by step series of examples
 ```
 Step 1: Download Visual Studio code.
+<img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo">
 Step 2: Download the installer according to your operating system. Suppose if your OS is windows, download windows otherwise download accoring to operating system.
 Step 3: Install vscode. This step is easy, accept the agreement and click next.
 ```
