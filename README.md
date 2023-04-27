@@ -139,7 +139,7 @@ Step 6: Final Deployment
 - [Chrome](https://www.google.com/) - Browser
 
 ## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@Ethan Marcotte](https://ethanmarcotte.com/)
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
